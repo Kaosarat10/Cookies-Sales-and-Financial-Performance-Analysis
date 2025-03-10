@@ -2,7 +2,7 @@
 
 ## 📌 Table of Contents  
 1. [Introduction](#Introduction)  
-2. [Data Overview](#data-overview)  
+2. [Data Overview](#Dataoverview)  
 3. [Key Metrics](#key-metrics)  
 4. [Sales & Profit Analysis](#sales--profit-analysis)  
 5. [Findings & Insights](#findings--insights)  

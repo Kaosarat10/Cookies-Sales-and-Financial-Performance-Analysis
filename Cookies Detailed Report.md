@@ -23,6 +23,11 @@ We examined **financial and sales records** in a period of a year looking at **r
 
 ## 📊 Data Overview  
 
+## Dataset
+
+You can access the dataset used in this analysis here: [CookiesSales](https://docs.google.com/spreadsheets/d/11Tn05_802SGXH9Jcuok8SVE5xKzsXpOP/edit?usp=drive_link&ouid=100467025237211383944&rtpof=true&sd=true)
+
+
 ### 🔍 Dataset Summary  
 - **Total Rows:** 700  
 - **Total Columns:** 7  
@@ -58,6 +63,10 @@ We examined **financial and sales records** in a period of a year looking at **r
 
 ## 📊 Sales & Profit Analysis  
 
+## Analysis
+
+The detailed analysis can be found here: [Cookies Analysis](https://drive.google.com/drive/folders/18KEK1aU4xNunkVzrGa-jq8A7LdWe84u5?usp=drive_link)
+
 ### 🍪 Best-Selling Cookies  
 - **Top Revenue Generator:** **Chocolate Chip** 🍫 → **$1.6M**  
 - **Lowest Revenue Generator:** **Fortune Cookie** 🍀  
@@ -72,6 +81,9 @@ We examined **financial and sales records** in a period of a year looking at **r
 ---
 
 ## 🔍 Findings & Insights  
+## Visualizations
+
+![Dashboard Visualization]()
 
 ### ✅ Strengths  
 ✔ **Chocolate Chip cookies dominate** both sales and profit—strong market demand.  

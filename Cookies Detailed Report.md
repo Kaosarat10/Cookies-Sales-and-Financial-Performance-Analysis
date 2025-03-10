@@ -1,7 +1,7 @@
 # 🍪 Cookie Sales & Financial Performance Analysis (2022-2023)
 
 ## 📌 Table of Contents  
-1. [Introduction](#introduction)  
+1. [Introduction](## 🏁 Introduction)  
 2. [Data Overview](#data-overview)  
 3. [Key Metrics](#key-metrics)  
 4. [Sales & Profit Analysis](#sales--profit-analysis)  

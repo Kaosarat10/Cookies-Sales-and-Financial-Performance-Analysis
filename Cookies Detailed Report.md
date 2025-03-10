@@ -1,4 +1,4 @@
-# 🍪 Cookie Sales & Financial Performance Analysis (2020-2023)
+# 🍪 Cookie Sales & Financial Performance Analysis (2022-2023)
 
 ## 📌 Table of Contents  
 1. [Introduction](#introduction)  
@@ -14,10 +14,10 @@
 ## 🏁 Introduction  
 
 ### 🎯 Purpose of the Report  
-This report analyzes cookie sales from **2020 to 2023**, focusing on **sales trends, profitability, and best-performing products**. The goal is to help allocate resources effectively and maximize profits.  
+This report analyzes cookie sales from **2022 to 2023**, focusing on **sales trends, profitability, and best-performing products**. The goal is to help allocate resources effectively and maximize profits.  
 
 ### 📅 Scope  
-We examined **financial and sales records** across all two years, looking at **revenue, profit, profit margins, and quarterly/monthly performance**.
+We examined **financial and sales records** in a period of a year looking at **revenue, profit, profit margins, and quarterly/monthly performance**.
 
 ---
 

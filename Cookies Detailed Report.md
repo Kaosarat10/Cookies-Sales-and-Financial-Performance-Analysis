@@ -83,7 +83,7 @@ The detailed analysis can be found here: [Cookies Analysis](https://drive.google
 ## 🔍 Findings & Insights  
 ## Visualizations
 
-![Dashboard Visualization]()
+![Dashboard Visualization](https://github.com/Kaosarat10/Cookies-Sales-and-Financial-Performance-Analysis/blob/main/Cookies%20Sales%20Dashboard.png)
 
 ### ✅ Strengths  
 ✔ **Chocolate Chip cookies dominate** both sales and profit—strong market demand.  
